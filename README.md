@@ -90,7 +90,7 @@
 
 ## Language Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segfal&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segfal&hide_border=true&layout=compact" align="center" />  
 
   
 

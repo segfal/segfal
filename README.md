@@ -121,6 +121,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/segfal/segfal/output/snake.svg" alt="Snake animation" />
+
 
 ###

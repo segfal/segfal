@@ -58,7 +58,7 @@ I'm always eager to learn new technologies and methodologies to stay at the fore
   <tr>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/web-design.png"/><br/>Full-Stack Integration</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/speed.png"/><br/>System Optimization</td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/scalable.png"/><br/>Scalable Architecture</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/resize-vertical.png"/><br/>Scalable Architecture</td>
   </tr>
 </table>
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Segfal's%20Code%20Sanctuary&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Where%20Robust%20Systems%20and%20Elegant%20Solutions%20Thrive&descAlignY=51&descAlign=62" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=190&section=header&text=Segfal's%20Code%20Sanctuary&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Scalable%20Solutions%20and%20Guarding%20Digital%20Fortresses&descAlignY=55&descAlign=62" width="100%">
 </div>
 
 <div align="center">
@@ -8,17 +8,23 @@
 
 <p align="center">
   <a href="https://github.com/segfal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=100&lines=Full-Stack+Developer+%7C+DevOps+Enthusiast;Database+Expert+%7C+Performance+Optimizer;Maintainable+Code+Advocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=100&lines=Full-Stack+Developer+%7C+DevOps+Enthusiast;Database+Guardian+%7C+Performance+Optimizer;Maintainable+Code+Advocate" alt="Typing SVG" />
   </a>
 </p>
 
-## 🏆 GitHub Highlights
+<div align="center">
+  <a href="https://github.com/segfal">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.youtube.com/@segfal">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</div>
+
+## 📊 GitHub Metrics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=segfal&theme=tokyonight&hide_border=true" width="70%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=segfal&show_icons=true&theme=tokyonight&hide_border=true" width="70%" />
 </div>
 
@@ -28,18 +34,33 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segfal&theme=tokyonight&layout=compact" width="40%"/>
+
 Hello! I'm Segfal, a passionate full-stack developer dedicated to crafting efficient, scalable, and maintainable systems. I thrive on solving complex challenges and building solutions that stand the test of time and scale.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segfal&theme=tokyonight&layout=compact" width="40%"/>
+My focus areas include:
+- Building robust backend systems that can handle high loads
+- Implementing DevOps practices for seamless integration and deployment
+- Safeguarding and optimizing databases to ensure data integrity and performance
+- Creating user-friendly frontend interfaces that work harmoniously with backend systems
+- Designing scalable architectures that grow with your business needs
+
+I'm always eager to learn new technologies and methodologies to stay at the forefront of software development.
 
 ## 🌟 Expertise
 
-- 🏗️ **Backend Development**: Architecting robust server-side applications
-- 🚀 **DevOps**: Streamlining CI/CD pipelines and infrastructure as code
-- 🗄️ **Database Management**: Optimizing performance and ensuring data integrity
-- 🖥️ **Full-Stack Integration**: Bridging frontend and backend seamlessly
-- 🔧 **System Optimization**: Enhancing applications for peak performance
-- 🔮 **Scalable Architecture**: Designing systems built for growth
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/backend-development.png"/><br/>Backend Development</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/settings-3--v1.png"/><br/>DevOps</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/database-restore.png"/><br/>Database Guardian</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/web-design.png"/><br/>Full-Stack Integration</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/speed.png"/><br/>System Optimization</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/scalable.png"/><br/>Scalable Architecture</td>
+  </tr>
+</table>
 
 <p align="center">
   <b>🧙‍♂️ Pro Tip #2:</b> <i>"Why did the developer go broke? Because he used up all his cache!"</i> 💸
@@ -47,12 +68,12 @@ Hello! I'm Segfal, a passionate full-stack developer dedicated to crafting effic
 
 ## 🛠️ Tech Arsenal
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,html,css,java,flask,django,nodejs,react,nextjs,redux,express,postgres,mysql,mongodb,aws,gcp,docker,kubernetes,git,github,gitlab,jenkins,terraform,prometheus,grafana,vercel,netlify,figma&perline=8" />
-</p>
+</div>
 
 <details>
-<summary><b>🔧 Detailed Tech Stack</b></summary>
+<summary><b>🔧 Expand for Detailed Tech Stack</b></summary>
 
 ### Languages
 Python, TypeScript, JavaScript, C++, HTML, CSS, Java, SQL
@@ -82,23 +103,15 @@ Figma
 </details>
 
 <p align="center">
-  <b>🧙‍♂️ Pro Tip #3:</b> <i>"Why do programmers prefer dark mode? Because light attracts bugs!"</i> 🐛💡
+  <b>🧙‍♂️ Pro Tip #3:</b> <i>"How do you comfort a JavaScript bug? You console it!"</i> 🎮
 </p>
 
-<div align="center">
-  <h3>🚀 Let's Innovate Together!</h3>
-  <p>Open to exciting projects and collaborative opportunities.</p>
-</div>
+## 🚀 Let's Innovate Together!
 
 <div align="center">
-  <a href="https://github.com/segfal">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <p>I'm always open to exciting projects and collaborative opportunities. Let's build something amazing!</p>
+  <a href="https://github.com/segfal?tab=repositories">
+    <img src="https://img.shields.io/badge/Check%20Out%20My%20Projects-4B0082?style=for-the-badge&logo=github" alt="My Projects" />
   </a>
 </div>
 

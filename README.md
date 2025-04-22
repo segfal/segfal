@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=190&section=header&text=Segfal's%20Code%20Sanctuary&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Scalable%20Solutions%20and%20Guarding%20Digital%20Fortresses&descAlignY=55&descAlign=62" width="100%">
-</div>
+
 
 <div align="center">
   <img src="https://media1.tenor.com/m/cdgu_rxP5vwAAAAd/cat-hiss.gif" alt="hissing cat gif" width="100" />
@@ -115,14 +113,5 @@ Figma
   </a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&section=footer" width="100%">
-</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=segfal&color=blueviolet" alt="Profile views" />
-</p>
 
-<p align="center">
-  <i>"Transforming ideas into elegant, efficient code – one commit at a time."</i> 💻✨
-</p>

@@ -19,16 +19,7 @@
   </a>
 </div>
 
-## 📊 GitHub Metrics
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=segfal&theme=tokyonight&hide_border=true" width="70%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=segfal&show_icons=true&theme=tokyonight&hide_border=true" width="70%" />
-</div>
-
-<p align="center">
-  <b>🧙‍♂️ Pro Tip #1:</b> <i>"Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live."</i> 😅🏠
-</p>
 
 ## 👨‍💻 About Me
 
